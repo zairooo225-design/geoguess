@@ -1,6 +1,0 @@
-{
-  "name": "GeoGuess Kahoot",
-  "description": "Multiplayer educational geography game using Google Maps Street View, with AI name filtering.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
